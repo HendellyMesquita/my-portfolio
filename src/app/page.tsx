@@ -15,7 +15,7 @@ export default function Home() {
               <a className="btn-primary" href="mailto:hendelly.mesquita@inventsoftware.com.br">
                 Contact me ✉
               </a>
-            </div>
+          </div>
     </main>
   )
 }

@@ -9,18 +9,18 @@ export function SocialBtns(){
 
     return(
      <div className="social">
-         <a href="https://www.instagram.com">
+         {/* <a href="https://www.instagram.com">
             <InstaIcon/>
-         </a>
+         </a> */}
          <a href="https://github.com/HendellyMesquita">
             <GitHubIcon/>
          </a>
          <a href="https://www.linkedin.com/in/hendelly-lorrany-s-mesquita-28b8921a4/">
             <LinkedinIcon/>
          </a>
-         <a href="https://twitter.com">
+         {/* <a href="https://twitter.com">
             <TwiterIcon/>
-         </a>
+         </a> */}
      </div>  
     )
 }
