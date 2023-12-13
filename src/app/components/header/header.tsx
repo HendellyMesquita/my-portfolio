@@ -4,7 +4,7 @@ export function Header(){
     return(
         <div className = "header">
           <div>
-            <h1>Hi, i´m Hendelly! 🖖🏽</h1>
+            <h1>Hi, i´m Hendelly!👋</h1>
             <h2>Software Developer</h2>
           </div>
           <Image

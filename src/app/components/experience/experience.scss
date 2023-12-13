@@ -1,6 +1,9 @@
 .experience{
     display: flex;
     flex-direction: column;
+    gap: 24px;
+    max-width: 500px;
+
     grid-area: experience;
 
     p{
