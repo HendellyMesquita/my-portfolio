@@ -8,7 +8,8 @@
         "header"
         "btns"
         "experience"
-        "info";
+        "info"
+        ;
         
     .buttons {
         display: flex;
@@ -53,6 +54,7 @@
         justify-content: space-between;
         grid-template-areas: 
         "header info"
-        "experience btns";
+        "experience btns"
+        ;
     }
 }

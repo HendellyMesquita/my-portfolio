@@ -23,18 +23,6 @@ export function Experience(){
                     </div>
                 </div>
                 <div className="experience-language">
-                    <Image
-                      src="/java.png"
-                      alt="Java Logo"
-                      width={40}
-                      height={40}
-                      priority
-                    />
-                    <div className="experience-unit">
-                        <div className="experience-measure measure-2">
-                            <span>2 years</span>
-                        </div>
-                    </div>
                 </div>
                 <div className="experience-language">
                     <Image
