@@ -1,0 +1,38 @@
+.project_card{
+    width: 100%;
+    display: flex;
+    max-width: 300px;
+    background-color: white;
+    flex-direction: column;
+    cursor: pointer;
+    margin: 0 auto;
+    position: relative;
+    transition: transform 0.5;
+    border-radius: 24px;
+
+}
+.card__proj{
+    width: 100%;
+    border-radius: 24px;
+}
+.card__info{
+    padding: 20px;
+    border-top: 1px solid #ddd;
+}
+.card__title{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    line-height: 1.5;
+    font-weight: 500;
+}
+.card__descripton{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    line-height: 1.5;
+    font-weight: 500;
+  
+}
+
+.project_card:hover{
+    transform: translateY(-10px);
+}
