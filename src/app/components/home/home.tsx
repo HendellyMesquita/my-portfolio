@@ -1,4 +1,4 @@
-import { Experience } from "../experience/experience";
+import Experience from "../experience/experiences/experiences";
 import { Header } from "../header/header";
 import { Info } from "../information/information";
 import { SocialBtns } from "../socialButtons/socialButtons";

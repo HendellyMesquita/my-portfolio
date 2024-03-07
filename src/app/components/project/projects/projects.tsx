@@ -1,7 +1,7 @@
 import React from 'react';
-import "./projects.scss"
 import projectItem from '../projectItem/projectItem';
 import ProjectCard from '../projectCard/projectCard';
+import "./projects.scss"
 
 export default function Project(){
 
