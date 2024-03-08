@@ -9,12 +9,7 @@ const Experience: React.FC = () => {
         <p>2 years working as a software developer at Invent Software 💻</p>
         <div className="experience-time">
             <div>
-                <span>C Charp: 2 years</span>
-                <ProgressBar startDate={new Date('2021-11-01')} endDate={new Date('2024-01-01')} />
-                <span>Java Script: 1 years</span>
-                <ProgressBar startDate={new Date('2022-11-01')} endDate={new Date('2025-01-01')} />
-                <span>Type Script: 2 months</span>
-                <ProgressBar startDate={new Date('2023-08-01')} endDate={new Date('2026-01-01')} />
+              <ProgressBar/>
             </div>
         </div>
     </div>
