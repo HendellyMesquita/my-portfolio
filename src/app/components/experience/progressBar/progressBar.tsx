@@ -7,8 +7,8 @@ interface Course {
 
 const courses: Course[] = [
   { language: '⚡ CSharp', startDate: new Date('2021-11-19') },
-  { language: '☕ Java Script', startDate: new Date('2022-11-19') },
-  { language: '⚛︎ Type Script', startDate: new Date('2023-10-07') },
+  { language: '☕ JavaScript', startDate: new Date('2022-11-19') },
+  { language: '⚛︎ TypeScript', startDate: new Date('2023-10-07') },
 ];
 
 const calculateDuration = (startDate: Date): string => {
